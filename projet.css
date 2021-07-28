@@ -1,0 +1,21 @@
+.logo {
+    background-color: lightblue;
+    width: 30%;
+    height: 100 vh ;
+    border: 25px solid rgb(231, 115, 5);
+    float:left ;
+    font-size: 2em ;
+    
+  }
+
+ .same {
+    width:50%;
+    border: 15px solid green;
+    padding:25px;
+
+    float: left ;
+}
+
+
+
+
