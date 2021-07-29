@@ -1,21 +1,62 @@
-.logo {
-    background-color: lightblue;
-    width: 30%;
-    height: 100 vh ;
-    border: 25px solid rgb(231, 115, 5);
-    float:left ;
-    font-size: 2em ;
-    
-  }
-
- .same {
-    width:50%;
-    border: 15px solid green;
-    padding:25px;
-
-    float: left ;
+.logo{
+  position : absolute ;
+  top : 1% ;
+  right : 68% ;
+  width : 30% ;
+  text-align :left ;
 }
 
+.same {
+   width: 40%;
+  float : right ;
+list-style : none ;
+margin-top : 30 px ; 
+ }
 
+.same li {
+  display : inline-block ;
+   }
+
+
+.same li a {
+    color : black ;
+    display : block ;
+    text-decoration: none ;
+    position : relative ;
+    padding-left : 30 px ;
+    font-family :Segoe UI ;
+    letter-spacing : 2px ;
+    font-size : 14 px ;}
+ .same li a:hover {
+        background: coral;
+        ;}
+.wlc {position : relative ;
+width : 100% ;
+margin : 0 auto ;}
+
+.wlc img {width : 100% ;}
+
+.heading {color : white;
+position : absolute ;
+top : 50% ;
+right : 55% ;
+width : 10% ;
+text-align :center ;
+font-size : 50px ;
+background-color :rgba(3, 3, 3, 0.616) ;
+}
+
+.headingg {color : white;
+    position : absolute ;
+    top : 52% ;
+    width : 100% ;
+    text-align :center ;
+    font-size : 40px ;
+    left : 5% ;
+    font-family : Verdana ;
+    
+    }
+ 
+    
 
 
