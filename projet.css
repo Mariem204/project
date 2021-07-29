@@ -57,6 +57,13 @@ background-color :rgba(3, 3, 3, 0.616) ;
     
     }
  
-    
-
+  .project  { 
+    position : absolute ;
+    right : 68% ;
+    width : 30% ;
+    text-align :left ;
+    font-family :Segoe UI ; 
+  }
+  .h  { 
+    background : linear-gradient(to right ,)}
 
